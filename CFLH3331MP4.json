@@ -1,0 +1,11 @@
+{
+  "annotation_results": [ {
+    "input_uri": "/jsml01/CFLH3331.MP4",
+    "label_annotations": [ ],
+    "face_annotations": [ ],
+    "shot_annotations": [ {
+      "end_time_offset": 11277933
+    } ],
+    "safe_search_annotations": [ ]
+  } ]
+}

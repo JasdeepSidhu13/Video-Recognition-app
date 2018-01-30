@@ -1,0 +1,7 @@
+node_modules/
+*.log
+frontend/public/javascripts/*
+frontend/public/stylesheets/*
+frontend/public/javascripts/compiled.js
+*/local.json
+*/keyfile.json
