@@ -1,5 +1,5 @@
 
-### Thank to Sara Robinson, Google Developer advocate for the original source of the code.
+### Thanks to Sara Robinson, Google Developer advocate for the original code.
 
 
 
